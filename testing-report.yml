@@ -105,7 +105,7 @@
 
 - summary: |
     Проверка работы сайта в разных браузерах
-  status: pass
+  status: fail
 
 - summary: |
     Проверка запросов и ответов через DevTools

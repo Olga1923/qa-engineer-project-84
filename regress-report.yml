@@ -93,6 +93,23 @@ test-cases:
     Проверка пересчета общей стоимости корзины
   status: pass
 
+- summary: |
+    Проверка отображения хэштега на странице товара
+  status: pass
+
+- summary: |
+    Проверка закрытия окна заказа
+  status: fail
+
+- summary: |
+    Проверка работы сайта в разных браузерах
+  status: fail
+
+- summary: |
+    Проверка запросов и ответов через DevTools
+  status: pass
+
+
 bugreports:
 
 - summary: |

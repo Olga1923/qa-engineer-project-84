@@ -16,3 +16,9 @@ Products Store — учебный проект по тестированию и�
 - Выявленные дефекты задокументированы в баг-репортах.
 
 [![Actions Status](https://github.com/Olga1923/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Olga1923/qa-engineer-project-84/actions)
+
+- [Скриншот каталога](screenshots/photo_nav.jpg)
+- [Скриншот корзины](screenshots/photo_cart.jpg)
+- [Скриншот пустого чекбокса](screenshots/nav2.PNG)
+
+- [Скриншот отсутствия рейтинга на главной в карточке](screenshots/рейтинг.PNG)

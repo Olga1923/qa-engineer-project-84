@@ -111,7 +111,7 @@
 
 - summary: |
     Проверка запросов и ответов через DevTools
-  status: pass
+  status: fail
 
 - summary: |
     Проверка перехода к товарам по хэштегу
